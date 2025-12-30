@@ -1,0 +1,13 @@
+
+Daily Report – 2025-12-30
+
+Total Employees: 5
+Average Hours Worked: 8.00
+Total Tasks Completed: 23
+
+Employee Details:
+Alice: Hours Worked=8.0, Tasks Completed=5
+Bob: Hours Worked=7.5, Tasks Completed=4
+Charlie: Hours Worked=9.0, Tasks Completed=6
+David: Hours Worked=8.5, Tasks Completed=5
+Eve: Hours Worked=7.0, Tasks Completed=3
