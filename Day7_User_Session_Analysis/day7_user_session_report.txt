@@ -1,0 +1,7 @@
+
+USER SESSION ANALYSIS REPORT
+
+Total Users: 3
+Total Sessions: 8
+Average Session Duration (minutes): 38.12
+Most Active User: u1
