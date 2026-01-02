@@ -1,0 +1,10 @@
+Date: 2024-01-01
+Total Orders: 2.0
+Total Revenue: $1800.0
+Average Order Value: $900.0
+
+Date: 2024-01-02
+Total Orders: 3.0
+Total Revenue: $2600.0
+Average Order Value: $866.67
+
