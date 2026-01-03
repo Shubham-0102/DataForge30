@@ -1,0 +1,16 @@
+DAY 9 – SQL STYLE BUSINESS ANALYSIS
+
+Revenue Per Product:
+product
+Laptop    2700
+Phone     2500
+Tablet     900
+
+Top Selling Product:
+Laptop
+
+Daily Revenue:
+order_date
+2024-01-01    1900
+2024-01-02    1800
+2024-01-03    2400
